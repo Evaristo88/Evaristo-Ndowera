@@ -106,7 +106,7 @@ My Awesome GitHub Profile README
 
 ## 🐍 Contribution Snake
 
-![Snake animation](https://github.com/Evaristo88/Evaristo88/blob/output/github-snake.svg)
+![Snake animation](https://github.com/Evaristo88/Evaristo-Ndowera/blob/output/github-snake.svg)
 
 ## 💼 Featured Projects
 
