@@ -98,12 +98,6 @@ My Awesome GitHub Profile README
 </div>
 
 
-## 📈 Contribution Graph
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Evaristo88&theme=react-dark&hide_border=true&area=true" alt="Contribution Graph" />
-</div>
-
 ## 🐍 Contribution Snake
 
 ![Snake animation](https://github.com/Evaristo88/Evaristo-Ndowera/blob/output/github-snake.svg)
