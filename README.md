@@ -165,11 +165,7 @@ My Awesome GitHub Profile README
 
 ---
 
-<div align="center">
-  
-![Profile Views](https://komarev.com/ghpvc/?username=Evaristo88&label=Profile%20views&color=0e75b6&style=flat)
-  
-</div>
+
 
 <div align="center">
   
