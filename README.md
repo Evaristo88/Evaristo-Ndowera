@@ -84,7 +84,9 @@ My Awesome GitHub Profile README
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Evaristo88&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=1&column=7" alt="GitHub Trophies" />
+<img src="https://github-profile-trophy.vercel.app/api/?username=Evaristo88&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=1&column=7" alt="GitHub Trophies" />
+  <br>
+<em>🚧 Trophy service temporarily unavailable - check back soon!</em>
 </div>
 
 ## 🔥 Recent Activity
