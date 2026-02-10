@@ -166,6 +166,7 @@ My Awesome GitHub Profile README
 <!--[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)-->
 <!--[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourhandle)-->
 [![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vedastogerald4@gmail.com)
+[![Website](https://img.shields.io/badge/-Website-00C7B7?style=for-the-badge&logo=google-chrome&logoColor=white)](https://evaristo88.github.io/MY-PORTFOLIO/)
 
 </div>
 
